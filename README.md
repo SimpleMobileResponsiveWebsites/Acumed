@@ -71,4 +71,4 @@ source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 pip install streamlit pandas
 
 # Run the app
-streamlit run app.py
+streamlit run acu-med.py
