@@ -1,4 +1,4 @@
-readme_content = '''# AcuMed 🌿
+AcuMed 🌿
 
 **An AI tool for acupuncturists**
 
